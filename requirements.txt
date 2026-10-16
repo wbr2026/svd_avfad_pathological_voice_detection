@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+soundfile
+librosa
+scikit-learn
+torch
+transformers
+accelerate
+TTS
